@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    username: ski_resorts
+    password: ski_resorts
+    url: jdbc:mysql://localhost:3306/ski_resorts
+    
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    #defer-datasource-initalization: true
+    
+
+    

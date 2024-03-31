@@ -1,0 +1,23 @@
+{
+  "employeeFirstName": "Samantha",
+  "employeeLastName": "Burns",
+  "employeePhone": "406-534-2345",
+  "employeeEmail": "samantha_burns@ngo.gov",
+  "employeePosition": "Manager"
+}
+
+{
+  "employeeFirstName": "Barb",
+  "employeeLastName": "Smith",
+  "employeePhone": "406-432-2345",
+  "employeeEmail": "barb_smith@gmail.com",
+  "employeePosition": "Manager"
+}
+
+{
+  "employeeFirstName": "Don",
+  "employeeLastName": "Jones",
+  "employeePhone": "406-781-2345",
+  "employeeEmail": "don_jones@gmail.com",
+  "employeePosition": "Manager"
+}
